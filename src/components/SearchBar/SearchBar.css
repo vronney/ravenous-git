@@ -79,6 +79,7 @@
 @media only screen and (max-width: 560px) {
     .SearchBar {
         background-image: url('https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/background_search_mobile.jpg');
+        height: 500px;
     }
 
     .SearchBar-sort-options ul {
