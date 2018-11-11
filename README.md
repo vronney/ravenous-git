@@ -15,6 +15,8 @@ To copy project use:
 3. npm install
 4. npm start
 
+## Click here for [Demo]( https://vronney.github.io/ravenous-git/)
+
 ## An overview on how Ravenous functions:
 - The user should be able to search for restaurants.
 - The user should be able to view a list of restaurants returned by the Yelp API.
