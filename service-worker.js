@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ravenous-git/precache-manifest.8aec10bfda4ce782e96117ed44711027.js"
+  "/ravenous-git/precache-manifest.279cef18578d9fea8100bf2648d39440.js"
 );
 
 workbox.clientsClaim();
