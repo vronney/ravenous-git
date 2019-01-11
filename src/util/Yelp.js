@@ -9,7 +9,6 @@ const Yelp = {
          }).then(response => {
             return response.json();
          }).then(jsonResponse => {
-            console.log(response);
             if (jsonResponse.businesses) {
                 console.log(jsonResponse.businesses);
                 return jsonResponse.businesses.map(business => {
