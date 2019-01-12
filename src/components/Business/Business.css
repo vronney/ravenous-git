@@ -11,6 +11,11 @@
     margin-bottom: 1rem;
 }
 
+.business-links {
+    text-decoration: none;
+    color: black;
+}
+
 .Business h2 {
     margin-bottom: .5rem;
     font-size: 1.2rem;
