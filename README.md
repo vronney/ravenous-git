@@ -10,7 +10,7 @@
 # Using the Ravenous app
 
 To copy project use:
-1. git clone [https://vronney.github.io/ravenous-git/](https://github.com/vronney/ravenous.git)
+1. git clone [https://vronney.github.io/ravenous-git/](https://vronney.github.io/ravenous-git)
 2. CD to package.json
 3. npm install
 4. npm start

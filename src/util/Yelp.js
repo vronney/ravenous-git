@@ -14,7 +14,12 @@ const Yelp = {
                 return jsonResponse.businesses.map(business => {
                     return {
                     id: business.id,
+<<<<<<< HEAD
                     url: business.url,
+||||||| merged common ancestors
+=======
+                    url: business.url,    
+>>>>>>> 60a46214279b08555db22ba9f6579f3c67247395
                     imageSrc: business.image_url,
                     name: business.name,
                     address: business.location.address1,
