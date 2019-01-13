@@ -56,7 +56,19 @@
     margin: 0;
 }
 
-.Business-reviews .rating {
+.Business-reviews .rating, .Business-reviews .price {
+    display: inline;
     font-size: .88rem;
     line-height: 1rem;
 }
+
+.Business-reviews .price {
+    color: black;
+}
+
+@media only screen and (max-width: 500px) {
+    .business-links {
+        text-decoration: underline;
+    }
+}
+

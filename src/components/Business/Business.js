@@ -17,7 +17,7 @@ class Business extends React.Component {
                     </div>
                     <div className = "Business-reviews">
                         <h3>{this.props.business.category.toUpperCase()}</h3>
-                        <h3 className = "rating">{this.props.business.rating} Stars</h3>
+                        <h3 className = "rating">{this.props.business.rating} Stars <h3 className = "price">{this.props.business.price}</h3></h3>
                         <p>{this.props.business.reviewCount} reviews</p>
                     </div>
                 </div>
